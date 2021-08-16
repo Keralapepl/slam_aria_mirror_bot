@@ -21,7 +21,7 @@ to know how to get them click on the  #[ link ](https://github.com/ayushteke/sla
 
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy/https://github.com/Keralapepl/slam_aria_mirror_bot"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## Features supported:
